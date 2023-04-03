@@ -1,0 +1,41 @@
+.btn {
+  height: 55px;
+  background: #9dd558;
+  border-radius: 18px;
+  border: 0;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.2s ease-in-out;
+
+  &:hover {
+    background: lighten($color: #9dd558, $amount: 5%);
+  }
+
+  &:active {
+    background: darken($color: #9dd558, $amount: 5%);
+  }
+}
+
+.emptyFavorites {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .comeBackBtn {
+    padding-right: 55px;
+    padding-left: 60px;
+
+    &:hover {
+      img {
+        transform: translateX(-5px);
+      }
+    }
+
+    img {
+      left: 31px;
+      top: 21px;
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+      "price": 12999,
+      "imgUrl": "/img/shoe1.jpg",
+      "isInCart": false,
+      "isInFavorites": false
+    },
+    {
+      "id": 2,
+      "name": "Мужские Кроссовки Nike Air Max 270",
+      "price": 12999,
+      "imgUrl": "/img/shoe2.jpg",
+      "isInCart": false,
+      "isInFavorites": false
+    },
+    {
+      "id": 3,
+      "name": "Кроссовки Puma X Aka Boku Future Rider",
+      "price": 8499,
+      "imgUrl": "/img/shoe3.jpg",
+      "isInCart": false,
+      "isInFavorites": false
+    },
+    {
+      "id": 4,
+      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+      "price": 8499,
+      "imgUrl": "/img/shoe4.jpg",
+      "isInCart": false,
+      "isInFavorites": false
+    },
+    {
+      "id": 5,
+      "name": "Мужские Кроссовки Under Armour Curry 8",
+      "price": 15199,
+      "imgUrl": "/img/shoe5.jpg",
+      "isInCart": false,
+      "isInFavorites": false
+    },
+    {
+      "id": 6,
+      "name": "Мужские Кроссовки Nike Kyrie 7",
+      "price": 11299,
+      "imgUrl": "/img/shoe6.jpg",
+      "isInCart": false,
+      "isInFavorites": false
+    },
+    {
+      "id": 7,
+      "name": "Мужские Кроссовки Jordan Air Jordan 11",
+      "price": 10799,
+      "imgUrl": "/img/shoe7.jpg",
+      "isInCart": false,
+      "isInFavorites": false
+    },
+    {
+      "id": 8,
+      "name": "Мужские Кроссовки Nike LeBron XVIII",
+      "price": 16499,
+      "imgUrl": "/img/shoe8.jpg",
+      "isInCart": false,
+      "isInFavorites": false
+    },
+    {
+      "id": 9,
+      "name": "Мужские Кроссовки Nike Lebron XVIII Low",
+      "price": 13999,
+      "imgUrl": "/img/shoe9.jpg",
+      "isInCart": false,
+      "isInFavorites": false
+    },
+    {
+      "id": 10,
+      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+      "price": 12999,
+      "imgUrl": "/img/shoe1.jpg",
+      "isInCart": false,
+      "isInFavorites": false
+    },
+    {
+      "id": 11,
+      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+      "price": 8499,
+      "imgUrl": "/img/shoe4.jpg",
+      "isInCart": false,
+      "isInFavorites": false
+    },
+    {
+      "id": 12,
+      "name": "Мужские Кроссовки Nike Kyrie Flytrap IV",
+      "price": 11299,
+      "imgUrl": "/img/shoe10.jpg",
+      "isInCart": false,
+      "isInFavorites": false
+    }
+  ],
+  "cart": [],
+  "favorites": []
+}

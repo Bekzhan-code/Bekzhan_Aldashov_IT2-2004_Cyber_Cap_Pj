@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+  outline: none;
+  margin: 0;
+  padding: 0;
+  font-family: "Inter" system-ui;
+}
+
+li {
+  list-style-type: none;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #e5e5e5;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.wrapper {
+  background: #ffffff;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.04);
+  border-radius: 20px;
+  max-width: 1080px;
+  margin: 50px auto;
+}
+
+.content {
+  padding: 60px;
+
+  .contentHeader {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+    justify-content: space-between;
+  }
+
+  .searchBlock {
+    display: flex;
+    border: 1px solid #f3f3f3;
+    border-radius: 10px;
+    padding: 0 15px;
+    position: relative;
+
+    input {
+      border: 0;
+      padding: 13px;
+      font-size: 16px;
+    }
+
+    .inputRemoveBtn {
+      position: absolute;
+      left: 245px;
+      top: 10px;
+      width: 20px;
+      height: 20px;
+      cursor: pointer;
+    }
+  }
+
+  .cardWrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    row-gap: 40px;
+  }
+}
